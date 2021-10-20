@@ -1,0 +1,21 @@
+{
+    "name": "satisfy/test-satisfy",
+    "description": "Test satisfy",
+    "homepage": "https://github.com/Balex70/test-satisfy.git",
+    "type": "magento2-module",
+    "license": "MIT",
+    "keywords": [
+        "test"
+    ],
+    "authors": [
+        {
+            "name": "Alex"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Satisfy\\TestSatisfy\\": ""
+        }
+    }
+}
